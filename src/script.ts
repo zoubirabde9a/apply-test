@@ -1,5 +1,5 @@
 
-export function testAbsolute(linkUrl : String) : boolean {
+export function validateString(linkUrl : String) : boolean {
 
     var result = true;
 
@@ -18,7 +18,7 @@ export function testAbsolute(linkUrl : String) : boolean {
 }
 
 
-export function removeBlank(str : String) : String {
+export function fixString(str : String) : String {
 
     var newString : String;
 

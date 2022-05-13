@@ -1,2 +1,3 @@
 # apply-test
-a test code to apply
+to build: npm run build
+to run the test: npm test
